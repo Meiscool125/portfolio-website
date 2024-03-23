@@ -4,8 +4,12 @@ import './nav-bar.css'; // Import the CSS file
 
 const Navbar = () => {
   return (
-    <div>
-        <h1 class="padding-left-style">About Home Contact</h1>
+    <div className="nav-container">
+      <div className="text-container">
+          <text className="text-style">About</text>
+          <text className="text-style">Home</text>
+          <text className="text-style">Contact</text>
+      </div>
     </div>
   );
 };

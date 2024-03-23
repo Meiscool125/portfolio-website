@@ -1,0 +1,4 @@
+colors to consider:
+#86615C (soft red/brown, can be the "60" in "60/30/10". pairs well with one below.)
+#006992 (slightly harsher blue, can be the "30" in "60/30/10". can use #006992c0 for a slightly cooler version. pairs well with one above)
+#FFA630 (bright orange, can be the "10" in "60/30/10.)

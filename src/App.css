@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  scroll-behavior: smooth;
 }
 
 .App-logo {
@@ -40,4 +41,8 @@
 @font-face {
   font-family: "Nunito";
   src: local("Nunito"), url(./components/fonts/NunitoFont.ttf), format(truetype);
+}
+
+html{
+  scroll-behavior: smooth;
 }
